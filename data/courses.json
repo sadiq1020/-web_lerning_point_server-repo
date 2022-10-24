@@ -1,0 +1,56 @@
+[
+    {
+        "id": "6356fefc9176a62455c09457",
+        "key": 0,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 149,
+        "course_duration": 6,
+        "courseName": "MERN Stack",
+        "details": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MERN is a full stack, following the traditional three-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON."
+    },
+    {
+        "id": "6356fefc1ef80d34b46c031d",
+        "key": 1,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 69,
+        "course_duration": 2,
+        "courseName": "JavaScript",
+        "details": "JavaScript is the world's most popular programming language.This is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
+    },
+    {
+        "id": "6356fefcac95c6ecb741fe52",
+        "key": 2,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 99,
+        "course_duration": 2,
+        "courseName": "Fulton",
+        "details": "Laborum elit veniam pariatur ad nostrud sit. Tempor Lorem qui sunt incididunt commodo occaecat exercitation minim laboris mollit aliqua. In excepteur nisi aute id consequat laboris incididunt. Culpa minim deserunt aute veniam commodo adipisicing proident minim."
+    },
+    {
+        "id": "6356fefc4a493c6a53195497",
+        "key": 3,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 75,
+        "course_duration": 1.5,
+        "courseName": "Redux",
+        "details": "Laboris in culpa esse sint elit in quis magna. Commodo cillum veniam ea ullamco irure est laborum incididunt cupidatat reprehenderit. Fugiat esse occaecat incididunt incididunt qui minim ipsum veniam. Laboris deserunt ad minim cupidatat qui culpa Lorem reprehenderit laborum. Commodo sunt ipsum ea sint quis commodo elit nulla anim amet aliquip. Adipisicing cillum consectetur veniam sunt sit in reprehenderit sunt."
+    },
+    {
+        "id": "6356fefc170fd3bcc94bdc8f",
+        "key": 4,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 119,
+        "course_duration": 2,
+        "courseName": "Parks",
+        "details": "Esse laboris fugiat esse ut commodo exercitation veniam quis eu officia. Et amet anim non aliqua culpa adipisicing reprehenderit commodo nulla id quis est velit velit. Do qui laboris pariatur elit in sint et commodo eiusmod veniam"
+    },
+    {
+        "id": "6356fefc4dba2594d04f1468",
+        "key": 5,
+        "picture": "http://placehold.it/32x32",
+        "course_fee": 55,
+        "course_duration": 2,
+        "courseName": "Basic Web Development",
+        "details": "Adipisicing cupidatat voluptate minim proident officia dolore. Aliqua duis sint laboris quis sint occaecat pariatur amet nostrud non laboris Lorem deserunt nulla. Cillum est fugiat cupidatat irure voluptate enim amet incididunt minim minim consectetur irure. Aute dolor nisi velit pariatur voluptate duis consectetur ea consectetur enim. Id irure officia esse dolore proident."
+    }
+]
