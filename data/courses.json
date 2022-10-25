@@ -2,55 +2,55 @@
     {
         "id": "6356fefc9176a62455c09457",
         "key": 0,
-        "picture": "http://placehold.it/32x32",
-        "course_fee": 149,
+        "picture": "https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png",
+        "course_fee": 169,
         "course_duration": 6,
         "courseName": "MERN Stack",
-        "details": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MERN is a full stack, following the traditional three-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON."
+        "details": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MERN is a full stack, following the traditional three-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON. Enroll in this course to be a perfect a perfect competitor in the job market."
     },
     {
         "id": "6356fefc1ef80d34b46c031d",
         "key": 1,
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?",
         "course_fee": 69,
         "course_duration": 2,
         "courseName": "JavaScript",
-        "details": "JavaScript is the world's most popular programming language.This is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
+        "details": "JavaScript is the world's most popular programming language.This is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. By enrolling in this course you will begin your journey to learn programming language."
     },
     {
         "id": "6356fefcac95c6ecb741fe52",
         "key": 2,
-        "picture": "http://placehold.it/32x32",
-        "course_fee": 99,
-        "course_duration": 2,
-        "courseName": "Fulton",
-        "details": "Laborum elit veniam pariatur ad nostrud sit. Tempor Lorem qui sunt incididunt commodo occaecat exercitation minim laboris mollit aliqua. In excepteur nisi aute id consequat laboris incididunt. Culpa minim deserunt aute veniam commodo adipisicing proident minim."
+        "picture": "https://img.freepik.com/premium-vector/affiliate-marketing-isometric-illustration_1124-850.jpg?",
+        "course_fee": 145,
+        "course_duration": 3,
+        "courseName": "Affiliate Marketing",
+        "details": "Affiliate marketing is a marketing arrangement in which affiliates receive a commission for each visit, sign up or sale they generate for a merchant. This arrangement allows businesses to outsource part of the sales process. The major part of this course is SEO (Search Engine Optimization), in which you will be knowledgeable in 3 months and will be expert in future,if you follow our guidelines"
     },
     {
         "id": "6356fefc4a493c6a53195497",
         "key": 3,
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://innovature.ai/wp-content/uploads/2022/05/React-redux-pic2.jpg",
         "course_fee": 75,
         "course_duration": 1.5,
         "courseName": "Redux",
-        "details": "Laboris in culpa esse sint elit in quis magna. Commodo cillum veniam ea ullamco irure est laborum incididunt cupidatat reprehenderit. Fugiat esse occaecat incididunt incididunt qui minim ipsum veniam. Laboris deserunt ad minim cupidatat qui culpa Lorem reprehenderit laborum. Commodo sunt ipsum ea sint quis commodo elit nulla anim amet aliquip. Adipisicing cillum consectetur veniam sunt sit in reprehenderit sunt."
+        "details": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark. Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Enroll this course to be even more efficient in web development."
     },
     {
         "id": "6356fefc170fd3bcc94bdc8f",
         "key": 4,
-        "picture": "http://placehold.it/32x32",
-        "course_fee": 119,
-        "course_duration": 2,
-        "courseName": "Parks",
-        "details": "Esse laboris fugiat esse ut commodo exercitation veniam quis eu officia. Et amet anim non aliqua culpa adipisicing reprehenderit commodo nulla id quis est velit velit. Do qui laboris pariatur elit in sint et commodo eiusmod veniam"
+        "picture": "https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg",
+        "course_fee": 145,
+        "course_duration": 4,
+        "courseName": "Web Designing",
+        "details": "A web designer is responsible for creating the design and layout of a website or web pages. Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardized code and proprietary software; user experience design. So enroll this course to begin your journey to be an web designer."
     },
     {
         "id": "6356fefc4dba2594d04f1468",
         "key": 5,
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
         "course_fee": 55,
         "course_duration": 2,
         "courseName": "Basic Web Development",
-        "details": "Adipisicing cupidatat voluptate minim proident officia dolore. Aliqua duis sint laboris quis sint occaecat pariatur amet nostrud non laboris Lorem deserunt nulla. Cillum est fugiat cupidatat irure voluptate enim amet incididunt minim minim consectetur irure. Aute dolor nisi velit pariatur voluptate duis consectetur ea consectetur enim. Id irure officia esse dolore proident."
+        "details": "In this course includes 2 basic concepts (html and css), which are the root of web development. And also you will be learning two most popular css frameworks, bootstrap and tailwind. So anyone who needs his/her foundation of web development journey very strong, is recommended to enroll in this course."
     }
 ]
