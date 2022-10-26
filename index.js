@@ -12,10 +12,12 @@ app.get('/', (req, res) => {
     res.send('assignment server is running')
 });
 
+// All courses
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
+// Single course
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const course = courses.find(c => c.id == id);

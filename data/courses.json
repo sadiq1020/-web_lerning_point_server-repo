@@ -2,7 +2,7 @@
     {
         "id": "6356fefc9176a62455c09457",
         "key": 0,
-        "picture": "https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png",
+        "picture": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg",
         "course_fee": 169,
         "course_duration": 6,
         "courseName": "MERN Stack",
@@ -44,24 +44,6 @@
         "courseName": "Web Designing",
         "details": "A web designer is responsible for creating the design and layout of a website or web pages. Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardized code and proprietary software; user experience design. So enroll this course to begin your journey to be an web designer."
     },
-    {
-        "id": "6356fefc4dba2594d04f1468",
-        "key": 6,
-        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
-        "course_fee": 555,
-        "course_duration": 25,
-        "courseName": "Basic Web Development",
-        "details": "In this course includes 2 basic concepts (html and css), which are the root of web development. And also you will be learning two most popular css frameworks, bootstrap and tailwind. So anyone who needs his/her foundation of web development journey very strong, is recommended to enroll in this course."
-    }
-    {
-        "id": "6356fefc4dba2594d04f1468",
-        "key": 7,
-        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
-        "course_fee": 5542,
-        "course_duration": 2,
-        "courseName": "Basic Web Development",
-        "details": "In this course includes 2 basic concepts (html and css), which are the root of web development. And also you will be learning two most popular css frameworks, bootstrap and tailwind. So anyone who needs his/her foundation of web development journey very strong, is recommended to enroll in this course. In this course includes 2 basic concepts (html and css), which are the root of web development. And also you will be learning two most popular css frameworks, bootstrap and tailwind. So anyone who needs his/her foundation of web development journey very strong, is recommended to enroll in this course."
-    }
     {
         "id": "6356fefc4dba2594d04f1468",
         "key": 5,
