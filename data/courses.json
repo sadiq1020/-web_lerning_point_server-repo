@@ -2,7 +2,7 @@
     {
         "id": "6356fefc9176a62455c09457",
         "key": 0,
-        "picture": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg",
+        "picture": "https://iili.io/DQGFtt.png",
         "course_fee": 169,
         "course_duration": 6,
         "courseName": "MERN Stack",
@@ -11,7 +11,7 @@
     {
         "id": "6356fefc1ef80d34b46c031d",
         "key": 1,
-        "picture": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?",
+        "picture": "https://iili.io/DQWO0u.webp",
         "course_fee": 69,
         "course_duration": 2,
         "courseName": "JavaScript",
@@ -20,7 +20,7 @@
     {
         "id": "6356fefcac95c6ecb741fe52",
         "key": 2,
-        "picture": "https://img.freepik.com/premium-vector/affiliate-marketing-isometric-illustration_1124-850.jpg?",
+        "picture": "https://iili.io/DQhzjp.webp",
         "course_fee": 145,
         "course_duration": 3,
         "courseName": "Affiliate Marketing",
@@ -29,7 +29,7 @@
     {
         "id": "6356fefc4a493c6a53195497",
         "key": 3,
-        "picture": "https://innovature.ai/wp-content/uploads/2022/05/React-redux-pic2.jpg",
+        "picture": "https://iili.io/DQhsHJ.jpg",
         "course_fee": 75,
         "course_duration": 1.5,
         "courseName": "Redux",
@@ -38,7 +38,7 @@
     {
         "id": "6356fefc170fd3bcc94bdc8f",
         "key": 4,
-        "picture": "https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg",
+        "picture": "https://iili.io/DQjTRj.webp",
         "course_fee": 145,
         "course_duration": 4,
         "courseName": "Web Designing",
@@ -47,7 +47,7 @@
     {
         "id": "6356fefc4dba2594d04f1468",
         "key": 5,
-        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+        "picture": "https://iili.io/DQjLge.png",
         "course_fee": 55,
         "course_duration": 2,
         "courseName": "Basic Web Development",
